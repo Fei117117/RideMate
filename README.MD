@@ -65,11 +65,14 @@ $ pytest -s
 
 ## Contributors
 
-<a href="https://github.com/yuanindublin"><img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/yuanindublin?v=4&h=30&w=30&fit=cover&mask=circle&maxage=7d"></a>
+<a href="https://github.com/yuanindublin"><img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/yuanindublin?v=4&h=60&w=60&fit=cover&mask=circle&maxage=7d"></a>
 [Yingyuan Li](https://github.com/yuanindublin)
 
+
+<a href="https://github.com/yuanindublin"><img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/Fei117117?v=4&h=60&w=60&fit=cover&mask=circle&maxage=7d"></a>
 [Fei Gao](https://github.com/Fei117117)
 
+<a href="https://github.com/yuanindublin"><img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/minhlynguyen?v=4&h=60&w=60&fit=cover&mask=circle&maxage=7d"></a>
 [Ly M Nguyen](https://github.com/minhlynguyen)
 
 ## License
