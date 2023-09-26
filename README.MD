@@ -1,5 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=yuanindublin.RideMate" />
-# RideMate version 1.0.
+
+## RideMate version 1.0.
 This version of RideMate is the work of a team of 3.
 
 ## Introduction
