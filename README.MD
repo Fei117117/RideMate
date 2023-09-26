@@ -2,7 +2,7 @@
 
 
 ## RideMate version 1.0.
-This version of RideMate is the work of a team of 3. [Dublinbikes](http://www.dublinbikes.ie) 
+This version of RideMate is to develop a web application to display occupance and weather infor mation for [Dublin Bikes](http://www.dublinbikes.ie).
 
 ## Introduction
 The repository is for the Dublin bikes app. The website had to be shutdown LOW EC2 balance
