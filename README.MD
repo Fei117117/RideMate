@@ -6,9 +6,9 @@ This version of RideMate is to develop a web application to display occupance an
 
 ## Introduction
 The repository is for the Dublin bikes app. The website had to be shutdown LOW [AWS EC2](https://aws.amazon.com/pm/ec2/) balance
-- The project scrapped data from [JCDecauxAPI](https://developer.jcdecaux.com/#/home) and [open weather API](https://openweathermap.org/api) to get data bikes data for 3 months.
-- The Scrapper ran in an AWS EC2 instance and stored data in an [AWS RDS](https://aws.amazon.com/rds/) (MySQL)
-- An ML model was developed with data and deployed on a Flask instance
+- The project scrapped data from [JCDecauxAPI](https://developer.jcdecaux.com/#/home) and [OpenWeather API](https://openweathermap.org/api) to get data bikes data for 3 months.
+- The Scrapper ran in an [AWS EC2](https://aws.amazon.com/pm/ec2/) instance and stored data in an [AWS RDS](https://aws.amazon.com/rds/) ([MySQL](https://www.mysql.com/))
+- An ML model was developed with data and deployed on a [Flask](https://flask.palletsprojects.com/en/2.3.x/) instance
 
 ### This is Dublin Bikes a webapp for our DBbikes system. 
 <!-- ![avatar](static/RideMate.png) -->
