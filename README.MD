@@ -52,8 +52,9 @@ The files can be downloaded and run using:
 $ git clone https://github.com/dillonfr/dublinbikes.git
 $ cd dublinbikes/dublinbikes
 $ python run.py
-
+```
 Then open localhost:5000 in your browser to view the webpage. Clicking on a station marker will show the necessary information and provide more options.
+
 
 ## Usage
 ## Contributors
