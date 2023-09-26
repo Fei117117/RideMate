@@ -1,6 +1,5 @@
 # RideMate version 1.0.
 This version of RideMate is the work of a team of 3.
-I have plan to make an upgraded version with better UI/UX and more complex features. 
 
 ## Introduction
 The repository is for the Dublin bikes app. The website had to be shutdown LOW EC2 balance
