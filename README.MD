@@ -48,7 +48,7 @@ When five nearest stations to the chosen location are shown, user can click on e
 ## Installation
 The files can be downloaded and run using:
 
-```bash
+```shell
 $ git clone https://github.com/yuanindublin/RideMate.git
 $ cd dublinbikes/dublinbikes
 $ python run.py
@@ -58,8 +58,9 @@ Then open localhost:5000 in your browser to view the webpage. Clicking on a stat
 
 ## Running Test
 Test file can be run using pytest:
-
-	`$ pytest -s`
+```shell
+$ pytest -s
+```
 
 ## Contributors
 ## License
