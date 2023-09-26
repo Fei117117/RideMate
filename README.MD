@@ -6,7 +6,7 @@ This version of RideMate is to develop a web application to display occupance an
 
 ## Introduction
 The repository is for the Dublin bikes app. The website had to be shutdown LOW EC2 balance
-- The project scrapped data from [JCDecauxAPI](https://developer.jcdecaux.com/#/home) and open weather API to get data bikes data for 3 months.
+- The project scrapped data from [JCDecauxAPI](https://developer.jcdecaux.com/#/home) and [open weather](https://openweathermap.org/) to get data bikes data for 3 months.
 - The Scrapper ran in an AWS EC2 instance and stored data in an AWS RDS (MySQL)
 - An ML model was developed with data and deployed on a Flask instance
 
