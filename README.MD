@@ -5,9 +5,9 @@
 This version of RideMate is to develop a web application to display occupance and weather infor mation for [Dublin Bikes](http://www.dublinbikes.ie).
 
 ## Introduction
-The repository is for the Dublin bikes app. The website had to be shutdown LOW [EC2](https://aws.amazon.com/pm/ec2/?trk=c49c9dff-8619-4ee1-8d47-8585eb10c61e&sc_channel=ps&ef_id=CjwKCAjwgsqoBhBNEiwAwe5w0xQ2FsddFaWoGw7UF7jzXEIdeA_8Xn7dkZSxHU8mtRzDez3DJbY2lRoCq6AQAvD_BwE:G:s&s_kwcid=AL!4422!3!638364387973!e!!g!!aws%20ec2!19090032168!140900569821) balance
+The repository is for the Dublin bikes app. The website had to be shutdown LOW [AWS EC2](https://aws.amazon.com/pm/ec2/) balance
 - The project scrapped data from [JCDecauxAPI](https://developer.jcdecaux.com/#/home) and [open weather](https://openweathermap.org/) to get data bikes data for 3 months.
-- The Scrapper ran in an AWS EC2 instance and stored data in an AWS RDS (MySQL)
+- The Scrapper ran in an AWS EC2 instance and stored data in an [AWS RDS](https://aws.amazon.com/rds/) (MySQL)
 - An ML model was developed with data and deployed on a Flask instance
 
 ### This is Dublin Bikes a webapp for our DBbikes system. 
