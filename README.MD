@@ -65,7 +65,8 @@ $ pytest -s
 
 ## Contributors
 
-<a href="https://images.weserv.nl/?url=avatars.githubusercontent.com/yuanindublin?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d"></a>
+<a href="https://github.com/yuanindublin"><img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/yuanindublin?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d"></a>
+[Yingyuan Li](https://github.com/yuanindublin)
 [Yingyuan Li](https://github.com/yuanindublin)
 
 [Fei Gao](https://github.com/Fei117117)
