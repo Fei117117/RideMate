@@ -66,7 +66,7 @@ $ pytest -s
 ## Contributors
 [Yingyuan Li](https://github.com/yuanindublin)
 
-<a href="url"><img src="https://avatars.githubusercontent.com/yuanindublin" height="auto" width="200" style="border-radius:50%"></a>
+<a href="url"><img src="https://avatars.githubusercontent.com/yuanindublin.png?size=40"></a>
 
 [Fei Gao](https://github.com/Fei117117)
 
