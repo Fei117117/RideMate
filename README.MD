@@ -58,6 +58,7 @@ Then open localhost:5000 in your browser to view the webpage. Clicking on a stat
 
 ## Running Test
 Test file can be run using pytest:
+
 ```shell
 $ pytest -s
 ```
