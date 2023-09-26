@@ -64,4 +64,8 @@ $ pytest -s
 ```
 
 ## Contributors
+[Yingyuan Li](https://github.com/yuanindublin)
+[Fei Gao](https://github.com/Fei117117)
+[Ly M Nguyen](https://github.com/minhlynguyen)
+
 ## License
